@@ -1,0 +1,7 @@
+﻿  Source.cpp
+f:\code for me\c & c++\c++\project complex\project complex\source.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\code for me\c & c++\c++\project complex\project complex\source.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\code for me\c & c++\c++\project complex\project complex\source.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\code for me\c & c++\c++\project complex\project complex\source.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\code for me\c & c++\c++\project complex\project complex\source.cpp(12): warning C4101: 'j': unreferenced local variable
+  Project complex.vcxproj -> F:\code for me\c & c++\c++\Project complex\Debug\Project complex.exe
